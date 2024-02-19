@@ -1,8 +1,6 @@
 # TP-UTN
 Trabajo WEB_FULL_STACK_PYTHON
 
--Proyecto en github: https://github.com/Swsanita/TP-prueba
-
 -Github pages: https://swsanita.github.io/TP-prueba
 
 -API: https://api.thecatapi.com
