@@ -1,5 +1,5 @@
-# TP-prueba
-Trabajo_intermedio_WEB_FULL_STACK_PYTHON
+# TP-UTN
+Trabajo WEB_FULL_STACK_PYTHON
 
 -Proyecto en github: https://github.com/Swsanita/TP-prueba
 
